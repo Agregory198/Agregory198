@@ -1,4 +1,4 @@
-# Hi, I'm Alex Gregory.
+# Hi, I'm Alex Gregory
 I am a PhD-trained archaeologist turned data scientist. My area of expertise focuses on Bayesian modling, predictive modeling, and casual reasoning.
 
 ## I’m currently working on:
