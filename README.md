@@ -6,7 +6,7 @@ I am a data scientist and PhD candidate in archaeology. My area of expertise foc
 - Regression analysis of human technological change and dietary focus
 
 ### Skills
-- **Programing**: R (Expert), Python (Intermediate), Git
+- **Programming**: R (Expert), Python (Intermediate), Git
 - **Modeling**: Bayesian inference, GLMs, Spatio-temporal analysis, Machine learning
 - **Data**: Wrangling, Missing data handling, Automation, Reproducible workflows
 - **Visualization**: ggplot2, plotly
