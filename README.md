@@ -6,8 +6,8 @@ I am a PhD-trained archaeologist turned data scientist. My area of expertise foc
 - Regression analysis of human technological change and dietary focus
 
 ### Skills:
-- **programing**: R, Python, Git
-- **Modeling**: Bayesian infernece, GLMs, Spatio-temporal analysis, Machine learning
+- **programing**: R (Expert), Python (Intermediate), Git
+- **Modeling**: Bayesian inference, GLMs, Spatio-temporal analysis, Machine learning
 - **Data**: Wrangling, Missing data handling, Automation
 - **Visualization**: ggplot2, plotly
 - **Soft skills**: Causal reasoning, Science communication
