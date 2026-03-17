@@ -22,7 +22,7 @@ As a neurodivergent thinker, I bring a unique style of reasoning that emphasizes
 
 
 
-### Contact: GregoryAlex.DataSci@gmail.com
+### Contact: gregoryalex007@gmail.com
 
 <!--
 **Agregory198/Agregory198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
