@@ -3,7 +3,7 @@ I am a quantitative analyst and PhD candidate in archaeology. My area of experti
 
 ## I’m currently working on
 - Database design, management, and deployment for large scale data collection
-- Cloud-cased and local application development and deployment for machine learning problems, data collection, and data processing
+- Cloud-based and local application development and deployment for machine learning problems, data collection, and data processing
 - Bayesian models that link prehistoric human settlement, population size, and technological change
 - Regression analysis of human technological change and dietary focus
 
