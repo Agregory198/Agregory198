@@ -8,7 +8,7 @@ I am a quantitative analyst and PhD candidate in archaeology. My area of experti
 - Regression analysis of human technological change and dietary focus
 
 ### Skills
-- **Programming**: R (Expert), Python (Intermediate), Git
+- **Programming**: R (Expert), Python (Intermediate), SQL (Intermediate), Git
 - **Modeling**: Bayesian inference, GLMs, Spatio-temporal analysis, Machine learning
 - **Datbase construction**: MySQL, SQLite
 - **Application Development**: Cloud-based deployment, Local hosting, Streamlit
