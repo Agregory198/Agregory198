@@ -8,6 +8,8 @@ I am a quantitative analyst and PhD candidate in archaeology. My area of experti
 ### Skills
 - **Programming**: R (Expert), Python (Intermediate), Git
 - **Modeling**: Bayesian inference, GLMs, Spatio-temporal analysis, Machine learning
+- **Datbase construction**: MySQL, SQLite
+- **Application Development**: Cloud-based deployment, Local hosting, Streamlit
 - **Data**: Wrangling, Missing data handling, Automation, Reproducible workflows
 - **Visualization**: ggplot2, plotly
 - **Soft skills**: Causal reasoning, Science communication
